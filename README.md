@@ -214,6 +214,11 @@ Tourism recommendation system
 📷 Project Output
 <img width="1174" height="607" alt="Screenshot 2026-02-22 183236" src="https://github.com/user-attachments/assets/1e91f38c-fb47-4ee8-b0c4-8080a46a10fa" />
 
+<img width="1180" height="615" alt="Screenshot 2026-02-22 183525" src="https://github.com/user-attachments/assets/40b7beb4-8d73-4a4a-aa31-68efbbc47afd" />
+
+<img width="1172" height="606" alt="Screenshot 2026-02-22 183619" src="https://github.com/user-attachments/assets/5b0e8d1b-65c6-4168-b857-cd68ea11269b" />
+
+<img width="1187" height="632" alt="Screenshot 2026-02-22 183647" src="https://github.com/user-attachments/assets/577e4880-26bd-4fa1-8fd4-2fc3c5c8f2f9" />
 
 
 🔗 Project Links
